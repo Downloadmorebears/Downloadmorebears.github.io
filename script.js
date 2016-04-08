@@ -18,6 +18,85 @@ document.getElementById("download").onclick = function () {
       if (percent === 1000) {
         window.alert("You can stop now");
       }
+            if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+            if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+            if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
+      if (percent === 1000) {
+        window.alert("You can stop now");
+      }
       if (percent === 9001) {
         window.alert("IT'S OVER 9000!");
       }
